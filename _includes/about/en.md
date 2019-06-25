@@ -2,9 +2,10 @@
 
 Hey，我是kevinSWAT，病毒种，进化程度不明，多出没于[博客](https://kevinswat.github.io)、[Twitter](https://twitter.com/voidmarksman/)、[Github](http://github.com/kevinswat)等地，绝招尚在开发中。
 
-职业是软件工程师，混迹于各种大型研究所开发模拟训练软件。
+职业是软件工程师，混迹于各种大型研究所开发模拟战场以及仿真战术训练系统。
 现在主修技能是UE4以及Qt5。
 
+是个日漫死宅，非常喜欢初音ミク和シャナ。
 
 ##### My Programming Languages Spectrum
 
