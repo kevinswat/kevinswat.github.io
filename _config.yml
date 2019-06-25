@@ -1,9 +1,9 @@
 # Site settings
-title: KevinSWAT Blog
-SEOTitle: KevinSWAT的博客 | KevinSWAT Blog
+title: C<sup>4</sup>ISR
+SEOTitle: C4ISR | kevinSWAT Blog
 header-img: img/home-bg.jpg
 email: kevinswat@live.com
-description: "关于程序与设计、黑客与画家 | KevinSWAT，Software Engineer | 这里是KevinSWAT的个人博客，与你一起发现更大的虚拟世界。"
+description: "关于程序与设计 | kevinSWAT，Software Engineer | 这里是KevinSWAT的个人博客，与你一起发现更大的虚拟世界。"
 keyword: "KevinSWAT"
 url: "kevinswat.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
