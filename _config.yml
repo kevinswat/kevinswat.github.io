@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "although I have forgotten what the target is, but I have been waiting in this void..<br>虽然我已经忘记到底狙击目标是什么，但是我就一直就在这虚空中等待着。"
+sidebar-about-description: "Although I have forgotten what the target is, but I have been waiting in this void..<br>虽然我已经忘记到底狙击目标是什么，但是我就一直就在这虚空中等待着。"
 sidebar-avatar: /img/avatar-kevinswat.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
