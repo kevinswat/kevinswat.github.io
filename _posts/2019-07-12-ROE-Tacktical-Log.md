@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ROE战术LOG-20190714"
-subtitle: 'ROE战术LOG-20190714'
+title: "ROE tactical log"
+subtitle: '20190714'
 author: "kevinSWAT"
 header-style: text
 tags:
