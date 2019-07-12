@@ -5,7 +5,7 @@ Hello world，我是kevinSWAT，多出没于[博客](https://kevinswat.github.io
 职业是软件工程师，专注开发各种模拟战场以及仿真战术训练系统。
 现在主修技能是UE4以及Qt5。
 
-是个日漫死宅，非常喜欢初音ミク和シャナ。
+是个Otaku，非常喜欢初音ミク和シャナ。
 
 ##### My Programming Languages Spectrum
 
